@@ -1,0 +1,15 @@
+{
+  "name": "primeira-aula-back",
+  "version": "1.0.0",
+  "description": "Projeto express,node e sqlite",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henrique Aguiar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6"
+  }
+}
